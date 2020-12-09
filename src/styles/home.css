@@ -1,0 +1,81 @@
+.trafficlights{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.traffictop{
+    border: 1px solid black;
+    width: 20px;
+    height: 120px;
+    background-color: black;  
+    margin-left:40px;
+
+}
+
+.colors{
+    border: 1px solid black;
+    width: 101px;
+    height: 325px;
+    background-color: black;
+    border-radius: 10px 10px 10px 10px;
+     
+}
+
+.redlight{
+   width: 100px;
+   height: 100px;
+   background-color: red;
+   border-radius: 50%;
+   border: 1px solid black;
+   margin-top:10px;
+   
+}
+.redlightOn{
+   width: 100px;
+   height: 100px;
+   background-color: red;
+   border-radius: 50%;
+   border: 1px solid black;
+   margin-top:10px;
+   box-shadow: 3px 10px 117px 32px rgba(240,32,32,0.85);
+  -webkit-box-shadow: 3px 10px 117px 32px rgba(240,32,32,0.85);
+  -moz-box-shadow: 3px 10px 117px 32px rgba(240,32,32,0.85);
+}
+
+.yellowlight{
+   width: 100px;
+   height: 100px;
+   background-color: yellow;
+   border-radius: 50%;
+   border: 1px solid black;
+   
+}
+.yellowlightOn{
+   width: 100px;
+   height: 100px;
+   background-color: yellow;
+   border-radius: 50%;
+   border: 1px solid black;
+   box-shadow: 3px 10px 117px 32px rgba(209,240,32,0.85);
+   -webkit-box-shadow: 3px 10px 117px 32px rgba(209,240,32,0.85);
+   -moz-box-shadow: 3px 10px 117px 32px rgba(209,240,32,0.85);
+}
+
+.greenlight{
+   width: 100px;
+   height: 100px;
+   background-color: green;
+   border-radius: 50%;
+   border: 1px solid black;
+}
+
+.greenlightOn{
+   width: 100px;
+   height: 100px;
+   background-color: green;
+   border-radius: 50%;
+   border: 1px solid black;
+   box-shadow: 3px 10px 117px 32px rgba(32,240,43,0.85);
+   -webkit-box-shadow: 3px 10px 117px 32px rgba(32,240,43,0.85);
+   -moz-box-shadow: 3px 10px 117px 32px rgba(32,240,43,0.85);   
+}
